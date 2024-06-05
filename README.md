@@ -3,17 +3,17 @@
 ## Descripción
 A través de consultas SQL desarrolladas para la base de datos **AdventureWorks2017**, se obtiene información clave que apoye la toma de decisiones de la empresa, proporcionando análisis detallados sobre ventas globales, datos demográficos de clientes y patrones de compra de bicicletas.
 
-Estructura del Proyecto
-## Parte I: Series Temporales
+## Estructura del Proyecto
+### Parte I: Series Temporales
 
 - Análisis de ventas globales por periodos (2011-2014)
 - Ventas por región (EE.UU., Europa, Pacífico)
 
-## Parte II: Dataset de Clientes para Regresión Lineal
+### Parte II: Dataset de Clientes para Regresión Lineal
 
 - Datos demográficos y gasto de los clientes
 
-## Parte III: Dataset de Clientes para Clasificación (Regresión Logística)
+### Parte III: Dataset de Clientes para Clasificación (Regresión Logística)
 
 - Identificación de clientes que compraron bicicletas
 
