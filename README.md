@@ -1,6 +1,6 @@
 # AdventureWorks-Bike-Sales-Analysis
 
-## Descripción del Proyecto
+## Descripción
 A través de consultas SQL desarrolladas para la base de datos **AdventureWorks2017**, se obtiene información clave que apoye la toma de decisiones de la empresa, proporcionando análisis detallados sobre ventas globales, datos demográficos de clientes y patrones de compra de bicicletas.
 
 Estructura del Proyecto
